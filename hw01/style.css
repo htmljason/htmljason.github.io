@@ -1,0 +1,160 @@
+*{
+    margin: 0;padding: 0;
+}
+.cf:after{
+    content: '';
+    display: table;
+    clear: both;
+}
+ul li{
+    list-style-type: none;
+}
+
+.navbar-inverse{
+     border-radius: 0;
+
+ }
+.mid{
+    position: relative;
+}
+.mid img{
+
+    width: 100%;
+    position:relative;
+    top: -22px;
+}
+.mid button{
+    height: 54px;
+    background-color:#337ab7;
+    width: 290px;
+    border-radius: 7px;
+    position: absolute;
+     bottom: 168px;
+    left: 530px;
+    border: 0 none;
+
+
+
+
+}
+.mid button a{
+    color: #ffffff;
+   text-decoration: none;
+}
+.mid  button:hover{
+    background-color: #336699;
+
+}
+.mid span a{
+    color:#ffffff;
+    position: absolute;
+    bottom: 133px;
+    left: 586px;
+}
+.navbar-default{
+    position: relative;
+    top: -22px;
+
+}
+.navbar-default ul{
+    padding-left: 200px;
+}
+.navbar-default ul li.one {
+   background: url("images/QQ.png") no-repeat ;
+
+
+}
+.navbar-default ul li.one a:hover{
+    color: #56abe4;
+    background: url("images/QQ (2).png") no-repeat ;
+}
+.navbar-default ul li.two a:hover{
+    text-decoration: underline;
+}
+.navbar-default ul li.three a:hover{
+    text-decoration: underline;
+    color: #eb4f38;
+    background: url("images/新浪微博 (1).png") no-repeat ;
+}
+.navbar-default ul li.three  {
+    background: url("images/新浪微博.png") no-repeat ;
+
+
+}
+p,h1{
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+    font-size: 45px;
+}
+hr{
+    width: 730px;
+   position: relative;
+    left: 300px;
+}
+.box{
+    padding-left: 105px;
+}
+.show{
+    border: 1px solid #ccc;
+    width: 260px;
+    height: 335px;
+    margin-left: 105px;
+}
+.show img{
+    width: 250px;
+    height: 130px;
+
+    margin-top: -10px;
+}
+.show  li{
+    text-align: center;
+    margin-top: 20px;
+}
+.box ul{
+    margin-left: 30px;
+    margin-bottom: 30px;
+    float: left;
+}
+.con hr{
+    width:100%;
+    margin-left: -300px;
+    margin-right: 0;
+
+}
+.coo{
+    color:#563d7c;
+}
+.foot li a{
+    color: #777777;
+}
+.pdd{
+    color:#777777 ;
+}
+.jason{
+    width: 550px;
+}
+.foot ul{
+    float: left;
+    padding-left: 70px;
+}
+.foot{
+    margin-left: 65px;
+}
+.jason{
+    margin-right: 80px;
+}
+.mil hr{
+    width: 1150px;
+    margin-left:-180px;
+}
+.last ul li{
+    float: left;
+    margin-left: 15px;
+}
+.last ul{
+
+    margin-left: 520px;
+   padding-bottom: 100px;
+}
